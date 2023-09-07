@@ -134,5 +134,49 @@
 
 18.[Pauli frames for quantum computer architectures](https://ieeexplore.ieee.org/document/8060448/)
 
+### ASPLOS
 
+#### 2019-2023(No quantum related paper before 2019)
+
+1.[Qompress: Efficient Compilation for Ququarts Exploiting Partial and Mixed Radix Operations for Communication Reduction](https://dl.acm.org/doi/pdf/10.1145/3575693.3575726)
+
+2.[Verification of Nondeterministic Quantum Programs](https://dl.acm.org/doi/pdf/10.1145/3582016.3582039)
+
+3.[Better Than Worst-Case Decoding for Quantum Error Correction](https://dl.acm.org/doi/pdf/10.1145/3575693.3575733)
+
+4.[Navigating the Dynamic Noise Landscape of Variational Quantum Algorithms with QISMET](https://dl.acm.org/doi/pdf/10.1145/3575693.3575739)
+
+5.[FrozenQubits: Boosting Fidelity of QAOA by Skipping Hotspot Nodes](https://dl.acm.org/doi/10.1145/3575693.3575741)
+
+6.[CaQR: A Compiler-Assisted Approach for Qubit Reuse through Dynamic Circuit](https://dl.acm.org/doi/pdf/10.1145/3582016.3582030)
+
+7.[Suppressing ZZ crosstalk of Quantum computers through pulse and scheduling co-optimization](https://dl.acm.org/doi/10.1145/3503222.3507761)
+
+8.[QUEST: systematically approximating Quantum circuits for higher output fidelity](https://dl.acm.org/doi/10.1145/3503222.3507739)
+
+9.[HAMMER: boosting fidelity of noisy Quantum circuits by exploiting Hamming behavior of erroneous outcomes](https://dl.acm.org/doi/10.1145/3503222.3507703)
+
+10.[LILLIPUT: a lightweight low-latency lookup-table decoder for near-term Quantum error correction](https://dl.acm.org/doi/10.1145/3503222.3507707)
+
+11.[Paulihedral: a generalized block-wise compiler optimization framework for Quantum simulation kernels](https://dl.acm.org/doi/10.1145/3503222.3507715)
+
+12.[Qraft: reverse your Quantum circuit and know the correct program output](https://dl.acm.org/doi/10.1145/3445814.3446743)
+
+13.[Logical abstractions for noisy variational Quantum algorithm simulation](https://dl.acm.org/doi/10.1145/3445814.3446750)
+
+14.[CutQC: using small Quantum computers for large Quantum circuit evaluations](https://dl.acm.org/doi/10.1145/3445814.3446758)
+
+15.[Software Mitigation of Crosstalk on Noisy Intermediate-Scale Quantum Computers](https://dl.acm.org/doi/10.1145/3373376.3378477)
+
+16.[Quantum Circuits for Dynamic Runtime Assertions in Quantum Computation](https://dl.acm.org/doi/10.1145/3373376.3378488)
+
+17.[Towards Efficient Superconducting Quantum Processor Architecture Design](https://dl.acm.org/doi/10.1145/3373376.3378500)
+
+18.[Not All Qubits Are Created Equal: A Case for Variability-Aware Policies for NISQ-Era Quantum Computers](https://dl.acm.org/doi/10.1145/3297858.3304007)
+
+19.[Tackling the Qubit Mapping Problem for NISQ-Era Quantum Devices](https://dl.acm.org/doi/10.1145/3297858.3304023)
+
+20.[Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers](https://dl.acm.org/doi/10.1145/3297858.3304075)
+
+21.[Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers](https://dl.acm.org/doi/10.1145/3297858.3304018)
 
