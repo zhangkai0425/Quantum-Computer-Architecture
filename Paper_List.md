@@ -30,6 +30,36 @@
 
 ### ISCA
 
+#### 2017-2021
+
+1.[Exploiting Long-Distance Interactions and Tolerating Atom Loss in Neutral Atom Quantum Architectures](https://ieeexplore.ieee.org/document/9499945/)
+
+2.[Software-Hardware Co-Optimization for Computational Chemistry on Superconducting Quantum Processors](https://ieeexplore.ieee.org/document/9499812/)
+
+3.[Designing Calibration and Expressivity-Efficient Instruction Sets for Quantum Computing](https://ieeexplore.ieee.org/document/9499787/)
+
+4.[Superconducting Computing with Alternating Logic Elements](https://ieeexplore.ieee.org/document/9499888/)
+
+5.[Architecting Noisy Intermediate-Scale Trapped Ion Quantum Computers](https://ieeexplore.ieee.org/document/9138945/)
+
+6.[AccQOC: Accelerating Quantum Optimal Control Based Pulse Generation](https://ieeexplore.ieee.org/document/9138976/)
+
+7.[NISQ+: Boosting quantum computing power by approximating quantum error correction](https://ieeexplore.ieee.org/document/9139002/)
+
+8.[SQUARE: Strategic Quantum Ancilla Reuse for Modular Quantum Programs via Cost-Effective Uncomputation](https://ieeexplore.ieee.org/document/9138979/)
+
+9.[Full-Stack, Real-System Quantum Computer Studies: Architectural Comparisons and Design Insights](https://ieeexplore.ieee.org/document/8980312/)
+
+10.[Statistical Assertions for Validating Patterns and Finding Bugs in Quantum Programs](https://ieeexplore.ieee.org/document/8980343/)
+
+11.[Asymptotic Improvements to Quantum Circuits via Qutrits](https://ieeexplore.ieee.org/document/8980315/)
+
+12.[A Stochastic-Computing based Deep Learning Framework using Adiabatic Quantum-Flux-Parametron Superconducting Technology](https://ieeexplore.ieee.org/document/8980314/)
+
+13.[A Quantum Computational Compiler and Design Tool for Technology-Specific Targets](https://ieeexplore.ieee.org/document/8980363/)
+
+
+
 
 
 
