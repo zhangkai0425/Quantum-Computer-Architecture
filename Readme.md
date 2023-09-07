@@ -58,29 +58,43 @@
 
 13.[A Quantum Computational Compiler and Design Tool for Technology-Specific Targets](https://ieeexplore.ieee.org/document/8980363/)
 
-
-
-
-
-
-
-
-
-
-
 ### HPCA
 
+1.[The Imitation Game: Leveraging CopyCats for Robust Native Gate Selection in NISQ Programs](https://ieeexplore.ieee.org/document/10071025/)
 
+2.[Co-Designed Architectures for Modular Superconducting Quantum Computers](https://ieeexplore.ieee.org/document/10071036/)
 
+3.[HyQSAT: A Hybrid Approach for 3-SAT Problems by Integrating Quantum Annealer with CDCL](https://ieeexplore.ieee.org/document/10071022/)
 
+4.[A Pulse Generation Framework with Augmented Program-aware Basis Gates and Criticality Analysis](https://ieeexplore.ieee.org/document/10070990/)
 
+5.[DigiQ: A Scalable Digital Controller for Quantum Computers Using SFQ Logic](https://ieeexplore.ieee.org/document/9773260/)
 
+6.[QULATIS: A Quantum Error Correction Methodology toward Lattice Surgery](https://ieeexplore.ieee.org/document/9773181/)
 
+7.[VAQEM: A Variational Approach to Quantum Error Mitigation](https://ieeexplore.ieee.org/document/9773204/)
 
+8.[QuantumNAS: Noise-Adaptive Search for Robust QuantumCircuits](https://ieeexplore.ieee.org/document/9773233/)
+
+9.[Detecting Qubit-coupling Faults in Ion-trap QuantumComputers](https://ieeexplore.ieee.org/document/9773268/)
+
+10.[Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs](https://ieeexplore.ieee.org/document/9773245/)
+
+11.[SupermarQ: A Scalable Quantum Benchmark Suite](https://ieeexplore.ieee.org/document/9773202/)
+
+12.[Not All SWAPs Have the Same Cost: A Case for Optimization-Aware Qubit Routing](https://ieeexplore.ieee.org/document/9773196/)
+
+13.[AFS: Accurate, Fast, and Scalable Error-Decoding for Fault-Tolerant Quantum Computers](https://ieeexplore.ieee.org/document/9773217/)
+
+14.[Systematic Approaches for Precise and Approximate Quantum State Runtime Assertion](https://ieeexplore.ieee.org/document/9407042/)
+
+15.[TILT: Achieving Higher Fidelity on a Trapped-Ion Linear-Tape Quantum Computing Architecture](https://ieeexplore.ieee.org/document/9407237/)
+
+16.[eQASM: An Executable Quantum Instruction Set Architecture](https://ieeexplore.ieee.org/document/8675197/)
 
 ### DAC
 
-
+ 
 
 
 
