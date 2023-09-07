@@ -60,6 +60,8 @@
 
 ### HPCA
 
+#### 2019-2022
+
 1.[The Imitation Game: Leveraging CopyCats for Robust Native Gate Selection in NISQ Programs](https://ieeexplore.ieee.org/document/10071025/)
 
 2.[Co-Designed Architectures for Modular Superconducting Quantum Computers](https://ieeexplore.ieee.org/document/10071036/)
@@ -94,9 +96,43 @@
 
 ### DAC
 
- 
+#### 2018-2021
 
+1.[qSeq: Full Algorithmic and Tool Support for Synthesizing Sequential Circuits in Superconducting SFQ Technology](https://ieeexplore.ieee.org/document/9586102/)
 
+2.[An Efficient Algorithm for Sparse Quantum State Preparation](https://ieeexplore.ieee.org/document/9586240/)
+
+3.[Bit-Slicing the Hilbert Space: Scaling Up Accurate Quantum Circuit Simulation](https://ieeexplore.ieee.org/document/9586191/)
+
+4.[Mitigating Crosstalk in Quantum Computers through Commutativity-Based Instruction Reordering](https://ieeexplore.ieee.org/document/9586145/)
+
+5.[QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code](https://ieeexplore.ieee.org/document/9586326/)
+
+6.[A Bridge-based Compression Algorithm for Topological Quantum Circuits](https://ieeexplore.ieee.org/document/9586322/)
+
+7.[Quantum Spectral Clustering of Mixed Graphs](https://ieeexplore.ieee.org/document/9586308/)
+
+8.[Approximate Equivalence Checking of Noisy Quantum Circuits](https://ieeexplore.ieee.org/document/9586214/)
+
+9.[Eliminating Redundant Computation in Noisy Quantum Computing Simulation](https://ieeexplore.ieee.org/document/9218666/)
+
+10.[Realistic Fault Models and Fault Simulation for Quantum Dot Quantum Circuits](https://ieeexplore.ieee.org/document/9218573/)
+
+11.[Massively Parallel Approximate Simulation of Hard Quantum Circuits](https://ieeexplore.ieee.org/document/9218591/)
+
+12.[Just Like the Real Thing: Fast Weak Simulation of Quantum Computation](https://ieeexplore.ieee.org/document/9218555/)
+
+13.[Codar: A Contextual Duration-Aware Qubit Mapping for Various NISQ Devices](https://ieeexplore.ieee.org/document/9218561/)
+
+14.[QURE: Qubit Re-allocation in Noisy Intermediate-Scale Quantum Computers](https://ieeexplore.ieee.org/document/8806892/)
+
+15.[Mapping Quantum Circuits to IBM QX Architectures Using the Minimal Number of SWAP and H Operations](https://ieeexplore.ieee.org/document/8807099/)
+
+16.[Efficient Circuits for Quantum Search over 2D Square Lattice Architecture](https://ieeexplore.ieee.org/document/8806968/)
+
+17.[Cryo-CMOS electronic control for scalable quantum computing](https://ieeexplore.ieee.org/document/8060386/)
+
+18.[Pauli frames for quantum computer architectures](https://ieeexplore.ieee.org/document/8060448/)
 
 
 
